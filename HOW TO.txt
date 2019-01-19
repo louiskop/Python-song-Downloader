@@ -1,0 +1,4 @@
+-enter the songs' yt url in the songlist.txt each on a new line
+-run donwload.bat
+-wait for it to finish
+-get songs in Songs folder
