@@ -1,4 +1,4 @@
 -enter the songs' yt url in the songlist.txt each on a new line
--run donwload.bat
+-run songdownload.py in python3
 -wait for it to finish
 -get songs in Songs folder
